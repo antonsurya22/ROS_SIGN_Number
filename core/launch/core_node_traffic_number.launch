@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="core" type="core_node_traffic_number.py" name="core_node_traffic_number" output="screen" />
+</launch>

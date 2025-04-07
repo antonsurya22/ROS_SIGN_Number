@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="detect" type="detect_number_detector.py" name="detect_number_detector" output="screen"></node>
+</launch>
+
+

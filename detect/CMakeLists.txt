@@ -21,6 +21,10 @@ catkin_install_python(PROGRAMS
 	nodes/detect_parking
 	nodes/detect_level
 	nodes/detect_tunnel
+	nodes/detect_sign_detector.py
+	nodes/detect_number_detector.py
+	nodes/detect_sign_yolo.py
+	nodes/detect_sign_vgg19.py
  	DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 

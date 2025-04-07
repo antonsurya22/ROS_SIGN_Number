@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="detect" type="detect_sign_vgg19.py" name="detect_sign_vgg19" output="screen" />
+</launch>

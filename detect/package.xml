@@ -19,5 +19,10 @@
   <exec_depend>python-opencv</exec_depend>
   <exec_depend>python-numpy</exec_depend>
   <exec_depend>python-enum34</exec_depend>
+  <exec_depend>tesseract-ocr</exec_depend> 
+  <exec_depend>pytesseract</exec_depend> 
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>keras</exec_depend>
+  <exec_depend>tensorflow</exec_depend>
 
 </package>

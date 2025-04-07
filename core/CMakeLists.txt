@@ -10,6 +10,7 @@ catkin_package()
 catkin_install_python(PROGRAMS
 	nodes/core_node_controller
 	nodes/core_node_mission
+	nodes/core_node_traffic_number.py
  	DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
